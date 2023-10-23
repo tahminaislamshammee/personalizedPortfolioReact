@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/personalizedPortfolioReact/static/css/main.2f2892d2.css",
+    "main.js": "/personalizedPortfolioReact/static/js/main.2c54e7d5.js",
+    "static/media/project-4.png": "/personalizedPortfolioReact/static/media/project-4.6b72ae4b68550c0e0f2c.png",
+    "static/media/project-1.png": "/personalizedPortfolioReact/static/media/project-1.d58e1bcad2179267de08.png",
+    "static/media/project-3.png": "/personalizedPortfolioReact/static/media/project-3.f437dfdc982d8e845835.png",
+    "static/media/project-2.png": "/personalizedPortfolioReact/static/media/project-2.d1d45b784e06d577e94b.png",
+    "static/media/project-6.png": "/personalizedPortfolioReact/static/media/project-6.dd6b66dec1d3e7bc8c62.png",
+    "static/media/project-7.png": "/personalizedPortfolioReact/static/media/project-7.a416dea2a7d7c0ed3ec8.png",
+    "static/media/TIS_CV.pdf": "/personalizedPortfolioReact/static/media/TIS_CV.826ab6d50a05e34f5f61.pdf",
+    "static/media/Tahmina.jpg": "/personalizedPortfolioReact/static/media/Tahmina.bb6039281dc56ce1e0c7.jpg",
+    "static/media/project-5.png": "/personalizedPortfolioReact/static/media/project-5.5bdad58e9ae6f8f91f79.png",
+    "static/media/project-8.png": "/personalizedPortfolioReact/static/media/project-8.d9227958c0e85fc6cdf2.png",
+    "static/media/close.svg": "/personalizedPortfolioReact/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
+    "index.html": "/personalizedPortfolioReact/index.html",
+    "main.2f2892d2.css.map": "/personalizedPortfolioReact/static/css/main.2f2892d2.css.map",
+    "main.2c54e7d5.js.map": "/personalizedPortfolioReact/static/js/main.2c54e7d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f2892d2.css",
+    "static/js/main.2c54e7d5.js"
+  ]
+}
