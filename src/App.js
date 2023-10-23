@@ -10,7 +10,7 @@ import Themes from './Components/Theme';
 function App() {
   return (
 
-    <BrowserRouter>
+    <BrowserRouter basename='/personalizedPortfolioReact'>
     <NavBar/>
     <Themes/>
       <Routes>
